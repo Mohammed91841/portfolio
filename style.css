@@ -1,0 +1,201 @@
+
+    html {
+  -webkit-text-size-adjust: 100%; /* للايفون والاندرويد */
+  text-size-adjust: 100%;
+  font-size: 16px;
+}
+    
+.phote{
+    box-shadow: 0 0px 10px #5C473A;
+    border-radius: 15px;
+    width: 300px ;
+    height: 300px;
+    margin: 50px 42px 0px 0px; 
+    }
+    
+    
+    
+        body{
+            font-size: 16px;
+    font-family: Arial, Helvetica, 'Segoe UI', sans-serif;
+  /* لو ما لقى Georgia بيمشي لـ Times لو ما لقاها بيمشي لاي خط serif */
+            margin: 0;         
+            padding-top: 60px; 
+            background: #e8e0d0;
+    }
+        
+        .navbar{
+            background: rgba(122, 97, 78, .9); 
+            color: #e8e0d0;
+            padding: 20px 70px 20px 0px;
+            text-align: center; 
+            position: fixed;
+            top: 0;
+            width: 100%;
+            box-shadow: 0 2px 8px 
+            #3F2F25;
+            font-size:22px;
+            font-weight: bold; 
+            z-index: 999;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            text-shadow: 0 0px 15px #3F2F25;
+        }
+        
+        
+        
+.name{ 
+    text-align: center; 
+    color: #7A614E;
+    text-hadow: 0 0px 10px #5C473A ; /* معطل راجعو */
+        
+    }
+        
+        
+.name2{
+    text-align: center;
+    color: #7A614E;
+    margin: -15px 0px 0px 0px ;
+    text-hadow: 0 0px 10px #5C473A;/*معطل راجعو */
+    }
+        
+        .me{
+            box-shadow: 0 0px 15px #3F2F25;
+            color: black;
+            background: #7A614E;
+            margin: 100px 38px 100px 38px;
+            text-align: center;
+            border-radius: 20px;
+            padding: 10px 15px 30px 15px;
+        }
+        
+        .about{
+    box-shadow: 0 0px 15px #5C473A;
+    background: #A1866F;
+    margin: 20px 19px 30px 10px;
+    color: #5C473A;
+    padding: 18px; 
+    border-radius: 20px;
+    width: 75%; 
+    font-size: 18px;
+    font-weight: bold; 
+    text-align: center 
+  
+        }
+        
+        .text{
+            font-size: 16px;
+            text-align: justify;
+        }
+        
+.div{
+    box-shadow: 0 0px 15px #3F2F25;
+    border: 1px solid #7A614E; 
+    margin: 10px 40px 10px 40px; 
+    background: #7A614E;
+    color: #e8e0d0;
+    text-align: center;
+    opacity: .95;
+    border-radius: 20px;
+    padding: 20px;
+    }
+        
+        
+.div2{
+    border: 1px solid #e8e0d0; 
+    background: #e8e0d0;
+    margin: 12px auto; 
+    color: #7A614E;
+    padding: 18px;
+    border-radius: 20px;
+    width: 75%;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center; 
+    box-shadow: inset 0 0px 15px #7A614E;
+    }
+        
+        
+.div1{ 
+    box-shadow: 0 0px 15px #5C473A;
+    background: #A1866F;
+    margin: 5px 15px 30px 10px;
+    color: #5C473A;
+    padding: 18px; 
+    border-radius: 20px;
+    width: 75%; 
+    font-size: 18px;
+    font-weight: bold; 
+    text-align: center 
+    
+}
+        
+        
+.more-skills,.more-certificates {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+    }
+        
+.see-more-btn { 
+    background: #A1866F; 
+    color: #5C473A;
+    border: none; 
+    padding: 12px 25px; 
+    border-radius: 15px; 
+    font-size: 16px;
+    font-weight: bold;
+    width: 75%;
+    margin: 25px 30px 5px 8px; 
+    cursor: pointer; 
+    display: block;
+    box-shadow: 0 0px 15px #e8e0d0;
+    }
+        
+        
+.see-more-btn:hover { 
+    background: #A1866F;
+    transform: scale(1.03);
+    }
+        
+        
+        .home{
+            box-shadow: 0 0px 15px #3F2F25;
+            background: #7A614E;
+            margin: 100px 38px 100px 38px;
+            text-align: center;
+            border-radius: 20px;
+            padding: 10px 15px 30px 15px;
+        }
+        
+        .home1{
+    box-shadow: 0 0px 15px #5C473A;
+    background: #A1866F;
+    margin: 5px 15px 30px 10px;
+    color: #5C473A;
+    padding: 18px; 
+    border-radius: 20px;
+    width: 75%; 
+    font-size: 18px;
+    font-weight: bold; 
+    text-align: center 
+        }
+        
+        
+        .phote1{
+            width: 270px;
+            height: 270px;
+            margin-bottom: 20px;
+            border-radius: 15px;
+            background: #e8e0d0;
+            box-shadow: 0 0px 10px #5C473A;
+            }
+            
+            .footer{
+      background: rgba(122, 97, 78, .9);
+      color:  #e8e0d0;
+      text-align: center;
+      padding: .3px 10px .3px 10px ;
+      margin-top: 50px;
+      font-size: 10px;
+            }
